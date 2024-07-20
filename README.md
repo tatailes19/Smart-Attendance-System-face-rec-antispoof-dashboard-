@@ -12,7 +12,7 @@ Developed an automated face recognition attendance system accompanied by a compr
 
 ![System Diagram](https://your-image-link.com/face-recognition.jpg)
 
-## Quick Demo
+## Quick Demo : For a better demonstration of the Face Rcognition, please refer to the original [GitHub repository](https://github.com/graduation2024/Attendance-System-Face-Recognition).
 
 ### Face Recognition and Anti-Spoofing in Action
 
@@ -27,4 +27,4 @@ Developed an automated face recognition attendance system accompanied by a compr
 
 ## Setup and Installation
 
-For a better demonstration of the Face Rcognition, please refer to the original [GitHub repository](https://github.com/graduation2024/Attendance-System-Face-Recognition).
+
