@@ -10,20 +10,24 @@ Developed an automated face recognition attendance system accompanied by a compr
 - **Automated Attendance Tracking:** Ensures accurate and efficient attendance logging.
 - **Dashboard Analysis:** Provides real-time insights, attendance reports, and employee management functionalities.
 
-![System Diagram](https://your-image-link.com/face-recognition.jpg)
+![System Diagram](Images/app digram - Page 1.png)
 
 ## Quick Demo : For a better demonstration of the Face Rcognition, please refer to the original [GitHub repository](https://github.com/graduation2024/Attendance-System-Face-Recognition).
 
 ### Face Recognition and Anti-Spoofing in Action
 
+#### New user Registration
+![Registering](registernew.PNG)
+
 #### Succes Verification
-![Face Recognition](https://your-image-link.com/face-recognition.jpg)
+![Face Verification](Images/real.PNG)
 
 #### Spoof attempt
-![Face Recognition](https://your-image-link.com/face-recognition.jpg)
+![Face Verification](Images/Spoof.PNG)
 
 ### Real-Time Dashboard
-![Dashboard](https://your-image-link.com/dashboard.jpg)
+![Dashboard](Images/dash1.gif)
+![Dashboard](Images/dash2.gif)
 
 ## Setup and Installation
 
