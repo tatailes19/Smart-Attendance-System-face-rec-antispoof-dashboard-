@@ -12,12 +12,13 @@ Developed an automated face recognition attendance system accompanied by a compr
 
 ![System Diagram](Images/app digram - Page 1.png)
 
-## Quick Demo : For a better demonstration of the Face Rcognition, please refer to the original [GitHub repository](https://github.com/graduation2024/Attendance-System-Face-Recognition).
+## Quick Demo : 
+For a better demonstration of the Face Rcognition, please refer to the original [GitHub repository](https://github.com/graduation2024/Attendance-System-Face-Recognition).
 
 ### Face Recognition and Anti-Spoofing in Action
 
 #### New user Registration
-![Registering](registernew.PNG)
+![Registering](Images/registernew.PNG)
 
 #### Succes Verification
 ![Face Verification](Images/real.PNG)
@@ -26,8 +27,8 @@ Developed an automated face recognition attendance system accompanied by a compr
 ![Face Verification](Images/Spoof.PNG)
 
 ### Real-Time Dashboard
-![Dashboard](Images/dash1.gif)
-![Dashboard](Images/dash2.gif)
+![Main Page](Images/dash1.gif)
+![Individual Analysis](Images/dash2.gif)
 
 ## Setup and Installation
 
