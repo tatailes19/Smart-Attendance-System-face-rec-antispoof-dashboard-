@@ -34,6 +34,5 @@ For a better demonstration of the Face Rcognition, please refer to the original 
 #### Individual Analysis
 ![Individual Analysis](Images/dash2.gif)
 
-## Setup and Installation
 
 
