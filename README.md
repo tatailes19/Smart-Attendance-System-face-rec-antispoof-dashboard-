@@ -1,4 +1,5 @@
 # Automated Anti-Spoof Face Recognition Attendance System with Dashboard Analysis
+please refer to the original [GitHub repository](https://github.com/graduation2024/Attendance-System-Face-Recognition) to see the original idea.
 
 ## Project Overview
 
